@@ -6,10 +6,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +34,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Bit Manipulation
 |  |
 | ------- |
