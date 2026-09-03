@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Bit Manipulation
 |  |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
