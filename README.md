@@ -48,4 +48,8 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
