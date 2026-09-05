@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
