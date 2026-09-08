@@ -29,6 +29,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [3870-count-commas-in-range](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Newton's Method
 |  |
 | ------- |
