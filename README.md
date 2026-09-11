@@ -58,4 +58,5 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
+| [0627-swap-sex-of-employees](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
