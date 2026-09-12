@@ -9,6 +9,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0067-add-binary](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,4 +61,8 @@
 | [0176-second-highest-salary](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
+## Counting
+|  |
+| ------- |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 <!---LeetCode Topics End-->
