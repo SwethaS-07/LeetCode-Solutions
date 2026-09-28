@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0088-merge-sorted-array](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -54,6 +55,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Database
 |  |
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
