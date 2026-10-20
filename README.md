@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
@@ -50,6 +52,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -58,6 +61,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Database
 |  |
@@ -73,4 +77,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
