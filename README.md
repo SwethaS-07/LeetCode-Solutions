@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -85,4 +88,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
