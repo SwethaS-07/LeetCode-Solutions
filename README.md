@@ -14,12 +14,14 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2670-find-the-distinct-difference-array](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [2670-find-the-distinct-difference-array](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 ## Binary Search
 |  |
 | ------- |
