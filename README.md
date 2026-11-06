@@ -10,6 +10,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2670-find-the-distinct-difference-array](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 ## Binary Search
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SwethaS-07/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
